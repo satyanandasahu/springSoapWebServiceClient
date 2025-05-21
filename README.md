@@ -1,5 +1,5 @@
 
-This project is a soap client project for spring boot ws soap project here is the link https://github.com/satyanandasahu/Springbootsoapws Deploy the Webservice on the server
+This project is a soap client project for spring boot ws soap project here is the @Springbootsoapws link https://github.com/satyanandasahu/Springbootsoapws Deploy the Webservice on the server
 Goto the Main class of this project and accordingly change the wsdl url to make the client program work.
 
 
