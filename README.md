@@ -73,7 +73,7 @@ Here are different Maven Plugins you can use in your pom file to generate the cl
 </plugin>
         
         
-# Apache CXF for generating Java classes from WSDL
+#Apache CXF for generating Java classes from WSDL
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-frontend-jaxws</artifactId>
