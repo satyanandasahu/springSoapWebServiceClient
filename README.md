@@ -4,6 +4,7 @@ Goto the Main class of this project and accordingly change the wsdl url to make 
 
 
 Here are different Maven Plugins you can use in your pom file to generate the class files from wsdl. I have used xjc to generate the class files from XSD.
+```xml
 <plugin>
 	<groupId>com.sun.xml.ws</groupId>
 	<artifactId>jaxws-maven-plugin</artifactId>
@@ -77,7 +78,8 @@ Here are different Maven Plugins you can use in your pom file to generate the cl
 <dependency>
     <groupId>org.apache.cxf</groupId>
     <artifactId>cxf-rt-frontend-jaxws</artifactId>
-</dependency> 
+<dependency>
+```
 
 Note: Watch the video for better understanding the content of the project. Here is the youtube link https://youtu.be/SZ9kshBcvFA
 
