@@ -1,4 +1,4 @@
-# 🧼 Spring Boot SOAP Client (springSoapWebServiceClient)
+# Spring Boot SOAP Client (springSoapWebServiceClient)
 
 This project is a **SOAP client** built with Spring Boot, designed to consume the web service from the companion project:  
 👉 [Springbootsoapws](https://github.com/satyanandasahu/Springbootsoapws)
